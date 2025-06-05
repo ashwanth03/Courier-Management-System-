@@ -1,0 +1,89 @@
+Courier Management System – Project Overview
+Introduction
+The Courier Management System is an intranet-based web application developed using ASP.NET and MS SQL Server. The primary goal of this project is to streamline and digitalize courier service operations, particularly across multiple branches, by providing a centralized system to manage consignments, users, and delivery logistics efficiently. Designed for use in a distributed environment, this system ensures seamless interaction between the headquarters and its regional branches.
+
+Objective
+The main objective is to automate routine courier service activities such as booking, tracking, manifest creation, and delivery. It enables the courier company to:
+
+Manage courier consignments and their statuses.
+
+Register users and assign roles (admin/user).
+
+Track shipments in real-time.
+
+Send pickup requests and delivery notifications.
+
+Generate detailed reports and manifests for operations.
+
+Modules
+Admin Module
+
+Manages the entire courier management system.
+
+Adds and manages users.
+
+Oversees manifest creation and report generation.
+
+Maintains and updates the web application.
+
+User Module
+
+Allows registration and login for users.
+
+Enables users to send pickup requests.
+
+Allows users to track their consignments.
+
+Sends automatic notifications regarding courier status.
+
+System Features
+Real-time tracking of couriers.
+
+Auto-generation of consignment notes and delivery run sheets (DRS).
+
+Manifest creation and inter-branch dispatch management.
+
+Stored data in centralized databases such as consignment_details, consignor_info, and dest_consignment_details.
+
+Reduced manual effort through automation of cost calculations and logistics processing.
+
+Technologies Used
+Front-End: ASP.NET, HTML, CSS
+
+Back-End: C#.NET / VB.NET
+
+Database: Microsoft SQL Server
+
+Development Environment: Visual Studio
+
+Benefits
+Efficient management of courier operations.
+
+Improved accuracy through automation.
+
+Centralized system for data access across multiple branches.
+
+Reduces manual paperwork and speeds up delivery logistics.
+
+Project Deliverables
+Full source code in ASP.NET with C#/VB.NET.
+
+SQL Server Database file with tables and data.
+
+Project report including:
+
+Abstract
+
+Data Flow Diagrams (DFDs)
+
+Entity-Relationship Diagram (ERD)
+
+Database Design Schema
+
+Complete documentation including:
+
+Software Requirements Specification (SRS)
+
+User Manual
+
+Test Cases
